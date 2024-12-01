@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hotel One-Page Website</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            overflow-x: hidden;
+        }
+
+        header {
+            background: url('https://th.bing.com/th/id/R.d5203e3238aee92309c97c4dcda6734c?rik=M%2bkzz54mNmitag&riu=http%3a%2f%2fhdqwalls.com%2fwallpapers%2fdubai-burj-al-arab-hotel-n7.jpg&ehk=RT23rkOM3MPvUSB7Gjfe6gHPtZrxU6dlX9FwUUzHw6o%3d&risl=&pid=ImgRaw&r=0') center/cover;
+            color: #fff;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            font-size: 1.5em;
+        }
+
+        #scroll-down {
+            margin-top: 20px;
+            font-size: 1.2em;
+            cursor: pointer;
+            animation: bounce 1.5s infinite;
+        }
+
+        @keyframes bounce {
+            0%, 100% {
+                transform: translateY(0);
+            }
+            50% {
+                transform: translateY(-10px);
+            }
+        }
+
+        section {
+            padding: 50px;
+            text-align: center;
+        }
+
+        #about, #rooms, #services, #contact {
+            min-height: 50vh;
+        }
+
+        h2 {
+            margin-bottom: 20px;
+            font-size: 2em;
+        }
+
+        #about p {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .room, .service {
+            display: inline-block;
+            width: 300px;
+            margin: 20px;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            transition: transform 0.3s ease;
+        }
+
+        .room:hover, .service:hover {
+            transform: scale(1.05);
+            border-color: #007BFF;
+        }
+
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+            position: relative;
+        }
+
+        footer a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to Luxury Stay</h1>
+    <p>Your comfort is our priority</p>
+    <div id="scroll-down" onclick="scrollToSection('about')">⬇ Scroll Down</div>
+</header>
+
+<section id="about">
+    <h2>About Us</h2>
+    <p>Luxury Stay is a world-class hotel providing top-notch services and a comfortable stay for all guests. 
+    Experience luxury, comfort, and quality in the heart of the city.</p>
+</section>
+
+<section id="rooms">
+    <h2>Our Rooms</h2>
+    <div class="room">
+        <h3>Deluxe Room</h3>
+        <p>Our deluxe rooms come with a queen-sized bed, free Wi-Fi, and a stunning city view.</p>
+    </div>
+    <div class="room">
+        <h3>Suite Room</h3>
+        <p>The suite offers a spacious living area, a king-sized bed, and a personal balcony with a view.</p>
+    </div>
+</section>
+
+<section id="services">
+    <h2>Our Services</h2>
+    <div class="service">
+        <h3>Spa & Wellness</h3>
+        <p>Relax and rejuvenate at our full-service spa with a variety of treatments available.</p>
+    </div>
+    <div class="service">
+        <h3>Fine Dining</h3>
+        <p>Indulge in gourmet dining experiences with local and international cuisines.</p>
+    </div>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p>For reservations or inquiries, feel free to reach out at <strong>(123) 456-7890</strong> or email us at 
+    <strong>info@luxurystay.com</strong>.</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Luxury Stay. All rights reserved.</p>
+    <a href="https://adsterratech.com"><img alt="banner" src="https://landings-cdn.adsterratech.com/referralBanners/png/80%20x%2030%20px.png" /></a>
+</footer>
+
+<script>
+    function scrollToSection(sectionId) {
+        document.getElementById(sectionId).scrollIntoView({ behavior: 'smooth' });
+    }
+</script>
+
+<!-- Ad Script -->
+<script type="text/javascript">
+    atOptions = {
+        'key' : '1fc285689b551c2ad301695ee7dffdef',
+        'format' : 'iframe',
+        'height' : 60,
+        'width' : 468,
+        'params' : {}
+    };
+</script>
+<script type="text/javascript" src="//nicecartrigezip.com/1fc285689b551c2ad301695ee7dffdef/invoke.js"></script>
+
+</body>
+</html>

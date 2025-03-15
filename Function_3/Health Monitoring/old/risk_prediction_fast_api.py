@@ -3,7 +3,7 @@ from pydantic import BaseModel
 import pickle
 import numpy as np
 
-with open("Function_3\Health_Monitoring\heart_attack_prediction.pkl", "rb") as f:
+with open("heart_attack_prediction.pkl", "rb") as f:
     model = pickle.load(f)
 
 # FastAPI app

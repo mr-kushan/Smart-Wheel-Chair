@@ -1,0 +1,451 @@
+User ID,Gender,Exercise Name,Difficulty Level,Total Reps,Total Time (s),Overall Performance
+1,Female,Neck Rotation,Easy,15,241.2,Average
+1,Female,Chin Tucks,Medium,11,270.28,Bad
+1,Female,Shoulder Shrugs,Medium,23,214.68,Average
+1,Female,Neck Side Stretch,Easy,16,65.5,Bad
+1,Female,Neck Flexion,Easy,32,79.75,Bad
+1,Female,Neck Extension,Easy,5,180.18,Bad
+1,Female,Neck Isometrics,Medium,37,123.08,Average
+1,Female,Neck Side Bend,Medium,32,261.55,Good
+1,Female,Seated Head Turns,Medium,45,62.08,Bad
+2,Female,Neck Rotation,Easy,27,130.9,Average
+2,Female,Chin Tucks,Medium,37,266.45,Good
+2,Female,Shoulder Shrugs,Medium,49,79.61,Bad
+2,Female,Neck Side Stretch,Easy,13,93.73,Bad
+2,Female,Neck Flexion,Easy,48,147.75,Average
+2,Female,Neck Extension,Easy,49,209.29,Good
+2,Female,Neck Isometrics,Medium,20,63.8,Bad
+2,Female,Neck Side Bend,Medium,29,192.02,Average
+2,Female,Seated Head Turns,Medium,18,57.59,Bad
+3,Male,Neck Rotation,Easy,6,77.35,Bad
+3,Male,Chin Tucks,Medium,8,265.71,Bad
+3,Male,Shoulder Shrugs,Medium,50,241.94,Good
+3,Male,Neck Side Stretch,Easy,16,267.0,Average
+3,Male,Neck Flexion,Easy,18,133.44,Average
+3,Male,Neck Extension,Easy,45,172.79,Average
+3,Male,Neck Isometrics,Medium,34,233.37,Good
+3,Male,Neck Side Bend,Medium,14,87.67,Bad
+3,Male,Seated Head Turns,Medium,19,106.27,Average
+4,Non-binary,Neck Rotation,Easy,38,145.13,Average
+4,Non-binary,Chin Tucks,Medium,15,62.88,Bad
+4,Non-binary,Shoulder Shrugs,Medium,11,178.03,Bad
+4,Non-binary,Neck Side Stretch,Easy,44,54.73,Bad
+4,Non-binary,Neck Flexion,Easy,50,273.48,Good
+4,Non-binary,Neck Extension,Easy,37,199.14,Good
+4,Non-binary,Neck Isometrics,Medium,29,210.19,Average
+4,Non-binary,Neck Side Bend,Medium,20,99.99,Average
+4,Non-binary,Seated Head Turns,Medium,8,164.74,Bad
+5,Male,Neck Rotation,Easy,49,195.76,Good
+5,Male,Chin Tucks,Medium,25,299.47,Average
+5,Male,Shoulder Shrugs,Medium,13,110.44,Bad
+5,Male,Neck Side Stretch,Easy,13,71.11,Bad
+5,Male,Neck Flexion,Easy,19,72.97,Bad
+5,Male,Neck Extension,Easy,11,199.79,Bad
+5,Male,Neck Isometrics,Medium,26,147.66,Average
+5,Male,Neck Side Bend,Medium,33,154.67,Average
+5,Male,Seated Head Turns,Medium,13,254.64,Bad
+6,Female,Neck Rotation,Easy,32,246.71,Good
+6,Female,Chin Tucks,Medium,16,233.2,Average
+6,Female,Shoulder Shrugs,Medium,26,53.89,Bad
+6,Female,Neck Side Stretch,Easy,29,175.16,Average
+6,Female,Neck Flexion,Easy,31,281.99,Good
+6,Female,Neck Extension,Easy,9,146.52,Bad
+6,Female,Neck Isometrics,Medium,14,259.61,Bad
+6,Female,Neck Side Bend,Medium,7,77.34,Bad
+6,Female,Seated Head Turns,Medium,33,225.2,Good
+7,Female,Neck Rotation,Easy,38,253.13,Good
+7,Female,Chin Tucks,Medium,33,254.04,Good
+7,Female,Shoulder Shrugs,Medium,45,190.35,Good
+7,Female,Neck Side Stretch,Easy,49,148.69,Average
+7,Female,Neck Flexion,Easy,24,76.54,Bad
+7,Female,Neck Extension,Easy,46,122.9,Average
+7,Female,Neck Isometrics,Medium,29,177.48,Average
+7,Female,Neck Side Bend,Medium,23,257.3,Average
+7,Female,Seated Head Turns,Medium,20,285.48,Average
+8,Female,Neck Rotation,Easy,11,46.76,Bad
+8,Female,Chin Tucks,Medium,49,113.63,Average
+8,Female,Shoulder Shrugs,Medium,47,205.9,Good
+8,Female,Neck Side Stretch,Easy,9,291.79,Bad
+8,Female,Neck Flexion,Easy,10,249.78,Bad
+8,Female,Neck Extension,Easy,6,244.76,Bad
+8,Female,Neck Isometrics,Medium,16,256.23,Average
+8,Female,Neck Side Bend,Medium,13,248.99,Bad
+8,Female,Seated Head Turns,Medium,45,89.9,Bad
+9,Male,Neck Rotation,Easy,27,201.21,Average
+9,Male,Chin Tucks,Medium,15,187.44,Average
+9,Male,Shoulder Shrugs,Medium,30,196.32,Good
+9,Male,Neck Side Stretch,Easy,35,38.9,Bad
+9,Male,Neck Flexion,Easy,5,256.4,Bad
+9,Male,Neck Extension,Easy,48,119.01,Average
+9,Male,Neck Isometrics,Medium,32,104.51,Average
+9,Male,Neck Side Bend,Medium,9,285.44,Bad
+9,Male,Seated Head Turns,Medium,17,173.57,Average
+10,Female,Neck Rotation,Easy,30,50.63,Bad
+10,Female,Chin Tucks,Medium,17,82.37,Bad
+10,Female,Shoulder Shrugs,Medium,15,286.35,Average
+10,Female,Neck Side Stretch,Easy,29,175.3,Average
+10,Female,Neck Flexion,Easy,50,198.34,Good
+10,Female,Neck Extension,Easy,21,190.83,Average
+10,Female,Neck Isometrics,Medium,29,298.58,Average
+10,Female,Neck Side Bend,Medium,46,148.34,Average
+10,Female,Seated Head Turns,Medium,35,205.32,Good
+11,Non-binary,Neck Rotation,Easy,40,267.78,Good
+11,Non-binary,Chin Tucks,Medium,49,278.42,Good
+11,Non-binary,Shoulder Shrugs,Medium,38,131.59,Average
+11,Non-binary,Neck Side Stretch,Easy,37,97.28,Average
+11,Non-binary,Neck Flexion,Easy,22,284.16,Average
+11,Non-binary,Neck Extension,Easy,40,46.57,Bad
+11,Non-binary,Neck Isometrics,Medium,32,64.18,Bad
+11,Non-binary,Neck Side Bend,Medium,24,270.6,Average
+11,Non-binary,Seated Head Turns,Medium,38,38.03,Bad
+12,Non-binary,Neck Rotation,Easy,31,299.36,Good
+12,Non-binary,Chin Tucks,Medium,34,147.65,Average
+12,Non-binary,Shoulder Shrugs,Medium,18,88.42,Bad
+12,Non-binary,Neck Side Stretch,Easy,20,214.93,Average
+12,Non-binary,Neck Flexion,Easy,24,118.97,Average
+12,Non-binary,Neck Extension,Easy,22,100.2,Average
+12,Non-binary,Neck Isometrics,Medium,5,94.58,Bad
+12,Non-binary,Neck Side Bend,Medium,8,144.53,Bad
+12,Non-binary,Seated Head Turns,Medium,18,147.91,Average
+13,Male,Neck Rotation,Easy,48,95.17,Average
+13,Male,Chin Tucks,Medium,29,216.01,Average
+13,Male,Shoulder Shrugs,Medium,46,123.75,Average
+13,Male,Neck Side Stretch,Easy,41,238.04,Good
+13,Male,Neck Flexion,Easy,29,221.98,Average
+13,Male,Neck Extension,Easy,37,50.5,Bad
+13,Male,Neck Isometrics,Medium,6,193.61,Bad
+13,Male,Neck Side Bend,Medium,43,196.22,Good
+13,Male,Seated Head Turns,Medium,9,77.39,Bad
+14,Female,Neck Rotation,Easy,10,271.48,Bad
+14,Female,Chin Tucks,Medium,46,54.84,Bad
+14,Female,Shoulder Shrugs,Medium,38,264.05,Good
+14,Female,Neck Side Stretch,Easy,23,115.64,Average
+14,Female,Neck Flexion,Easy,25,33.74,Bad
+14,Female,Neck Extension,Easy,13,70.73,Bad
+14,Female,Neck Isometrics,Medium,7,157.83,Bad
+14,Female,Neck Side Bend,Medium,48,296.56,Good
+14,Female,Seated Head Turns,Medium,19,34.51,Bad
+15,Male,Neck Rotation,Easy,21,256.22,Average
+15,Male,Chin Tucks,Medium,44,286.88,Good
+15,Male,Shoulder Shrugs,Medium,33,195.84,Good
+15,Male,Neck Side Stretch,Easy,45,255.21,Good
+15,Male,Neck Flexion,Easy,24,189.7,Average
+15,Male,Neck Extension,Easy,43,77.17,Bad
+15,Male,Neck Isometrics,Medium,29,135.97,Average
+15,Male,Neck Side Bend,Medium,18,258.97,Average
+15,Male,Seated Head Turns,Medium,30,108.87,Average
+16,Male,Neck Rotation,Easy,15,191.46,Average
+16,Male,Chin Tucks,Medium,38,150.73,Average
+16,Male,Shoulder Shrugs,Medium,20,249.52,Average
+16,Male,Neck Side Stretch,Easy,28,128.81,Average
+16,Male,Neck Flexion,Easy,25,160.78,Average
+16,Male,Neck Extension,Easy,11,183.73,Bad
+16,Male,Neck Isometrics,Medium,7,91.93,Bad
+16,Male,Neck Side Bend,Medium,30,178.15,Average
+16,Male,Seated Head Turns,Medium,28,197.6,Average
+17,Male,Neck Rotation,Easy,42,229.51,Good
+17,Male,Chin Tucks,Medium,32,53.32,Bad
+17,Male,Shoulder Shrugs,Medium,43,192.69,Good
+17,Male,Neck Side Stretch,Easy,5,270.33,Bad
+17,Male,Neck Flexion,Easy,17,224.09,Average
+17,Male,Neck Extension,Easy,10,134.75,Bad
+17,Male,Neck Isometrics,Medium,12,251.49,Bad
+17,Male,Neck Side Bend,Medium,49,35.97,Bad
+17,Male,Seated Head Turns,Medium,50,117.71,Average
+18,Female,Neck Rotation,Easy,40,203.98,Good
+18,Female,Chin Tucks,Medium,25,82.69,Bad
+18,Female,Shoulder Shrugs,Medium,41,200.87,Good
+18,Female,Neck Side Stretch,Easy,40,128.68,Average
+18,Female,Neck Flexion,Easy,11,108.81,Bad
+18,Female,Neck Extension,Easy,34,214.7,Good
+18,Female,Neck Isometrics,Medium,38,62.13,Bad
+18,Female,Neck Side Bend,Medium,18,156.86,Average
+18,Female,Seated Head Turns,Medium,35,284.31,Good
+19,Non-binary,Neck Rotation,Easy,49,146.6,Average
+19,Non-binary,Chin Tucks,Medium,15,144.24,Average
+19,Non-binary,Shoulder Shrugs,Medium,38,123.52,Average
+19,Non-binary,Neck Side Stretch,Easy,42,212.18,Good
+19,Non-binary,Neck Flexion,Easy,33,140.2,Average
+19,Non-binary,Neck Extension,Easy,17,124.82,Average
+19,Non-binary,Neck Isometrics,Medium,42,186.08,Good
+19,Non-binary,Neck Side Bend,Medium,18,243.28,Average
+19,Non-binary,Seated Head Turns,Medium,31,249.38,Good
+20,Non-binary,Neck Rotation,Easy,33,89.26,Bad
+20,Non-binary,Chin Tucks,Medium,25,179.6,Average
+20,Non-binary,Shoulder Shrugs,Medium,31,229.71,Good
+20,Non-binary,Neck Side Stretch,Easy,36,273.59,Good
+20,Non-binary,Neck Flexion,Easy,18,259.7,Average
+20,Non-binary,Neck Extension,Easy,33,167.2,Average
+20,Non-binary,Neck Isometrics,Medium,25,270.33,Average
+20,Non-binary,Neck Side Bend,Medium,41,47.48,Bad
+20,Non-binary,Seated Head Turns,Medium,44,41.74,Bad
+21,Female,Neck Rotation,Easy,10,265.28,Bad
+21,Female,Chin Tucks,Medium,5,192.31,Bad
+21,Female,Shoulder Shrugs,Medium,32,250.1,Good
+21,Female,Neck Side Stretch,Easy,49,51.08,Bad
+21,Female,Neck Flexion,Easy,44,95.16,Average
+21,Female,Neck Extension,Easy,9,183.97,Bad
+21,Female,Neck Isometrics,Medium,30,99.62,Average
+21,Female,Neck Side Bend,Medium,23,47.47,Bad
+21,Female,Seated Head Turns,Medium,16,244.81,Average
+22,Female,Neck Rotation,Easy,23,227.34,Average
+22,Female,Chin Tucks,Medium,14,163.79,Bad
+22,Female,Shoulder Shrugs,Medium,46,126.93,Average
+22,Female,Neck Side Stretch,Easy,44,250.41,Good
+22,Female,Neck Flexion,Easy,16,270.52,Average
+22,Female,Neck Extension,Easy,33,194.76,Good
+22,Female,Neck Isometrics,Medium,10,131.32,Bad
+22,Female,Neck Side Bend,Medium,36,63.98,Bad
+22,Female,Seated Head Turns,Medium,9,244.94,Bad
+23,Male,Neck Rotation,Easy,46,123.89,Average
+23,Male,Chin Tucks,Medium,50,97.54,Average
+23,Male,Shoulder Shrugs,Medium,10,59.06,Bad
+23,Male,Neck Side Stretch,Easy,33,298.66,Good
+23,Male,Neck Flexion,Easy,44,181.37,Good
+23,Male,Neck Extension,Easy,43,149.48,Average
+23,Male,Neck Isometrics,Medium,31,214.14,Good
+23,Male,Neck Side Bend,Medium,35,63.05,Bad
+23,Male,Seated Head Turns,Medium,16,136.86,Average
+24,Non-binary,Neck Rotation,Easy,8,268.44,Bad
+24,Non-binary,Chin Tucks,Medium,21,260.25,Average
+24,Non-binary,Shoulder Shrugs,Medium,24,76.02,Bad
+24,Non-binary,Neck Side Stretch,Easy,42,74.35,Bad
+24,Non-binary,Neck Flexion,Easy,41,188.16,Good
+24,Non-binary,Neck Extension,Easy,42,269.31,Good
+24,Non-binary,Neck Isometrics,Medium,50,184.98,Good
+24,Non-binary,Neck Side Bend,Medium,41,132.6,Average
+24,Non-binary,Seated Head Turns,Medium,39,64.35,Bad
+25,Female,Neck Rotation,Easy,34,176.34,Average
+25,Female,Chin Tucks,Medium,19,180.71,Average
+25,Female,Shoulder Shrugs,Medium,42,161.29,Average
+25,Female,Neck Side Stretch,Easy,23,260.91,Average
+25,Female,Neck Flexion,Easy,26,267.45,Average
+25,Female,Neck Extension,Easy,21,256.55,Average
+25,Female,Neck Isometrics,Medium,8,61.62,Bad
+25,Female,Neck Side Bend,Medium,6,193.29,Bad
+25,Female,Seated Head Turns,Medium,46,90.39,Average
+26,Female,Neck Rotation,Easy,7,278.99,Bad
+26,Female,Chin Tucks,Medium,46,75.74,Bad
+26,Female,Shoulder Shrugs,Medium,13,97.49,Bad
+26,Female,Neck Side Stretch,Easy,31,127.67,Average
+26,Female,Neck Flexion,Easy,49,87.35,Bad
+26,Female,Neck Extension,Easy,36,79.76,Bad
+26,Female,Neck Isometrics,Medium,7,94.56,Bad
+26,Female,Neck Side Bend,Medium,30,76.56,Bad
+26,Female,Seated Head Turns,Medium,20,238.1,Average
+27,Non-binary,Neck Rotation,Easy,45,36.33,Bad
+27,Non-binary,Chin Tucks,Medium,10,261.2,Bad
+27,Non-binary,Shoulder Shrugs,Medium,34,200.32,Good
+27,Non-binary,Neck Side Stretch,Easy,8,279.29,Bad
+27,Non-binary,Neck Flexion,Easy,47,296.71,Good
+27,Non-binary,Neck Extension,Easy,31,260.79,Good
+27,Non-binary,Neck Isometrics,Medium,34,93.64,Average
+27,Non-binary,Neck Side Bend,Medium,42,112.87,Average
+27,Non-binary,Seated Head Turns,Medium,30,260.94,Good
+28,Male,Neck Rotation,Easy,30,245.98,Good
+28,Male,Chin Tucks,Medium,30,110.93,Average
+28,Male,Shoulder Shrugs,Medium,43,198.26,Good
+28,Male,Neck Side Stretch,Easy,40,121.55,Average
+28,Male,Neck Flexion,Easy,43,39.22,Bad
+28,Male,Neck Extension,Easy,12,260.06,Bad
+28,Male,Neck Isometrics,Medium,36,136.2,Average
+28,Male,Neck Side Bend,Medium,32,172.5,Average
+28,Male,Seated Head Turns,Medium,9,63.06,Bad
+29,Female,Neck Rotation,Easy,33,114.13,Average
+29,Female,Chin Tucks,Medium,21,207.12,Average
+29,Female,Shoulder Shrugs,Medium,30,67.48,Bad
+29,Female,Neck Side Stretch,Easy,41,165.82,Average
+29,Female,Neck Flexion,Easy,44,215.59,Good
+29,Female,Neck Extension,Easy,17,237.16,Average
+29,Female,Neck Isometrics,Medium,29,218.36,Average
+29,Female,Neck Side Bend,Medium,12,158.68,Bad
+29,Female,Seated Head Turns,Medium,22,164.91,Average
+30,Female,Neck Rotation,Easy,11,221.61,Bad
+30,Female,Chin Tucks,Medium,38,296.01,Good
+30,Female,Shoulder Shrugs,Medium,6,181.97,Bad
+30,Female,Neck Side Stretch,Easy,10,195.92,Bad
+30,Female,Neck Flexion,Easy,30,101.13,Average
+30,Female,Neck Extension,Easy,24,278.23,Average
+30,Female,Neck Isometrics,Medium,17,274.58,Average
+30,Female,Neck Side Bend,Medium,38,141.21,Average
+30,Female,Seated Head Turns,Medium,32,294.99,Good
+31,Male,Neck Rotation,Easy,43,53.43,Bad
+31,Male,Chin Tucks,Medium,41,195.54,Good
+31,Male,Shoulder Shrugs,Medium,13,271.56,Bad
+31,Male,Neck Side Stretch,Easy,30,67.74,Bad
+31,Male,Neck Flexion,Easy,41,66.44,Bad
+31,Male,Neck Extension,Easy,26,148.02,Average
+31,Male,Neck Isometrics,Medium,19,112.81,Average
+31,Male,Neck Side Bend,Medium,49,123.45,Average
+31,Male,Seated Head Turns,Medium,29,111.05,Average
+32,Non-binary,Neck Rotation,Easy,13,219.41,Bad
+32,Non-binary,Chin Tucks,Medium,6,175.42,Bad
+32,Non-binary,Shoulder Shrugs,Medium,48,154.57,Average
+32,Non-binary,Neck Side Stretch,Easy,16,53.4,Bad
+32,Non-binary,Neck Flexion,Easy,18,176.87,Average
+32,Non-binary,Neck Extension,Easy,48,138.99,Average
+32,Non-binary,Neck Isometrics,Medium,10,153.81,Bad
+32,Non-binary,Neck Side Bend,Medium,44,54.01,Bad
+32,Non-binary,Seated Head Turns,Medium,5,100.88,Bad
+33,Female,Neck Rotation,Easy,45,278.54,Good
+33,Female,Chin Tucks,Medium,32,197.81,Good
+33,Female,Shoulder Shrugs,Medium,46,250.85,Good
+33,Female,Neck Side Stretch,Easy,36,241.42,Good
+33,Female,Neck Flexion,Easy,28,208.54,Average
+33,Female,Neck Extension,Easy,45,242.34,Good
+33,Female,Neck Isometrics,Medium,46,198.41,Good
+33,Female,Neck Side Bend,Medium,42,64.81,Bad
+33,Female,Seated Head Turns,Medium,42,78.41,Bad
+34,Male,Neck Rotation,Easy,23,121.94,Average
+34,Male,Chin Tucks,Medium,8,183.84,Bad
+34,Male,Shoulder Shrugs,Medium,8,168.72,Bad
+34,Male,Neck Side Stretch,Easy,50,198.32,Good
+34,Male,Neck Flexion,Easy,33,224.13,Good
+34,Male,Neck Extension,Easy,11,272.38,Bad
+34,Male,Neck Isometrics,Medium,6,159.47,Bad
+34,Male,Neck Side Bend,Medium,22,170.53,Average
+34,Male,Seated Head Turns,Medium,19,188.32,Average
+35,Male,Neck Rotation,Easy,36,210.69,Good
+35,Male,Chin Tucks,Medium,14,127.88,Bad
+35,Male,Shoulder Shrugs,Medium,29,134.69,Average
+35,Male,Neck Side Stretch,Easy,28,218.76,Average
+35,Male,Neck Flexion,Easy,14,280.55,Bad
+35,Male,Neck Extension,Easy,6,220.09,Bad
+35,Male,Neck Isometrics,Medium,42,31.14,Bad
+35,Male,Neck Side Bend,Medium,8,294.39,Bad
+35,Male,Seated Head Turns,Medium,12,88.54,Bad
+36,Male,Neck Rotation,Easy,36,170.21,Average
+36,Male,Chin Tucks,Medium,22,31.84,Bad
+36,Male,Shoulder Shrugs,Medium,18,85.31,Bad
+36,Male,Neck Side Stretch,Easy,20,48.58,Bad
+36,Male,Neck Flexion,Easy,17,215.6,Average
+36,Male,Neck Extension,Easy,5,117.74,Bad
+36,Male,Neck Isometrics,Medium,16,94.16,Average
+36,Male,Neck Side Bend,Medium,40,223.24,Good
+36,Male,Seated Head Turns,Medium,17,38.51,Bad
+37,Male,Neck Rotation,Easy,48,134.52,Average
+37,Male,Chin Tucks,Medium,32,67.07,Bad
+37,Male,Shoulder Shrugs,Medium,11,126.6,Bad
+37,Male,Neck Side Stretch,Easy,8,141.98,Bad
+37,Male,Neck Flexion,Easy,37,234.43,Good
+37,Male,Neck Extension,Easy,46,48.93,Bad
+37,Male,Neck Isometrics,Medium,28,111.23,Average
+37,Male,Neck Side Bend,Medium,21,181.34,Average
+37,Male,Seated Head Turns,Medium,17,163.36,Average
+38,Female,Neck Rotation,Easy,13,67.18,Bad
+38,Female,Chin Tucks,Medium,26,31.13,Bad
+38,Female,Shoulder Shrugs,Medium,8,106.94,Bad
+38,Female,Neck Side Stretch,Easy,29,127.59,Average
+38,Female,Neck Flexion,Easy,40,259.14,Good
+38,Female,Neck Extension,Easy,25,186.37,Average
+38,Female,Neck Isometrics,Medium,50,100.24,Average
+38,Female,Neck Side Bend,Medium,48,96.24,Average
+38,Female,Seated Head Turns,Medium,45,282.09,Good
+39,Male,Neck Rotation,Easy,34,167.97,Average
+39,Male,Chin Tucks,Medium,42,266.71,Good
+39,Male,Shoulder Shrugs,Medium,24,53.91,Bad
+39,Male,Neck Side Stretch,Easy,33,34.41,Bad
+39,Male,Neck Flexion,Easy,17,229.97,Average
+39,Male,Neck Extension,Easy,35,164.57,Average
+39,Male,Neck Isometrics,Medium,23,61.38,Bad
+39,Male,Neck Side Bend,Medium,42,286.66,Good
+39,Male,Seated Head Turns,Medium,31,128.81,Average
+40,Male,Neck Rotation,Easy,15,222.82,Average
+40,Male,Chin Tucks,Medium,39,41.94,Bad
+40,Male,Shoulder Shrugs,Medium,44,138.89,Average
+40,Male,Neck Side Stretch,Easy,37,207.55,Good
+40,Male,Neck Flexion,Easy,31,75.04,Bad
+40,Male,Neck Extension,Easy,16,209.43,Average
+40,Male,Neck Isometrics,Medium,44,168.36,Average
+40,Male,Neck Side Bend,Medium,41,110.27,Average
+40,Male,Seated Head Turns,Medium,48,84.52,Bad
+41,Female,Neck Rotation,Easy,48,61.87,Bad
+41,Female,Chin Tucks,Medium,36,34.11,Bad
+41,Female,Shoulder Shrugs,Medium,13,259.57,Bad
+41,Female,Neck Side Stretch,Easy,17,226.71,Average
+41,Female,Neck Flexion,Easy,49,65.96,Bad
+41,Female,Neck Extension,Easy,12,126.65,Bad
+41,Female,Neck Isometrics,Medium,36,59.93,Bad
+41,Female,Neck Side Bend,Medium,40,60.36,Bad
+41,Female,Seated Head Turns,Medium,35,185.61,Good
+42,Female,Neck Rotation,Easy,35,270.59,Good
+42,Female,Chin Tucks,Medium,39,277.39,Good
+42,Female,Shoulder Shrugs,Medium,40,182.26,Good
+42,Female,Neck Side Stretch,Easy,19,99.03,Average
+42,Female,Neck Flexion,Easy,39,144.06,Average
+42,Female,Neck Extension,Easy,12,154.57,Bad
+42,Female,Neck Isometrics,Medium,10,180.15,Bad
+42,Female,Neck Side Bend,Medium,31,41.76,Bad
+42,Female,Seated Head Turns,Medium,20,47.05,Bad
+43,Female,Neck Rotation,Easy,7,120.4,Bad
+43,Female,Chin Tucks,Medium,28,185.35,Average
+43,Female,Shoulder Shrugs,Medium,37,84.44,Bad
+43,Female,Neck Side Stretch,Easy,6,186.37,Bad
+43,Female,Neck Flexion,Easy,43,252.57,Good
+43,Female,Neck Extension,Easy,42,100.61,Average
+43,Female,Neck Isometrics,Medium,34,229.3,Good
+43,Female,Neck Side Bend,Medium,28,226.65,Average
+43,Female,Seated Head Turns,Medium,36,110.75,Average
+44,Male,Neck Rotation,Easy,13,90.17,Bad
+44,Male,Chin Tucks,Medium,48,272.65,Good
+44,Male,Shoulder Shrugs,Medium,24,163.47,Average
+44,Male,Neck Side Stretch,Easy,19,101.79,Average
+44,Male,Neck Flexion,Easy,18,172.81,Average
+44,Male,Neck Extension,Easy,29,132.66,Average
+44,Male,Neck Isometrics,Medium,23,114.39,Average
+44,Male,Neck Side Bend,Medium,44,69.32,Bad
+44,Male,Seated Head Turns,Medium,46,260.09,Good
+45,Female,Neck Rotation,Easy,24,294.07,Average
+45,Female,Chin Tucks,Medium,33,128.82,Average
+45,Female,Shoulder Shrugs,Medium,45,52.27,Bad
+45,Female,Neck Side Stretch,Easy,19,258.17,Average
+45,Female,Neck Flexion,Easy,21,87.11,Bad
+45,Female,Neck Extension,Easy,35,281.88,Good
+45,Female,Neck Isometrics,Medium,42,31.61,Bad
+45,Female,Neck Side Bend,Medium,15,276.55,Average
+45,Female,Seated Head Turns,Medium,25,167.03,Average
+46,Non-binary,Neck Rotation,Easy,35,95.54,Average
+46,Non-binary,Chin Tucks,Medium,37,154.93,Average
+46,Non-binary,Shoulder Shrugs,Medium,26,64.28,Bad
+46,Non-binary,Neck Side Stretch,Easy,12,197.2,Bad
+46,Non-binary,Neck Flexion,Easy,23,47.28,Bad
+46,Non-binary,Neck Extension,Easy,15,247.7,Average
+46,Non-binary,Neck Isometrics,Medium,43,200.43,Good
+46,Non-binary,Neck Side Bend,Medium,17,97.55,Average
+46,Non-binary,Seated Head Turns,Medium,29,122.9,Average
+47,Female,Neck Rotation,Easy,16,218.53,Average
+47,Female,Chin Tucks,Medium,34,82.92,Bad
+47,Female,Shoulder Shrugs,Medium,33,204.76,Good
+47,Female,Neck Side Stretch,Easy,26,56.08,Bad
+47,Female,Neck Flexion,Easy,34,145.92,Average
+47,Female,Neck Extension,Easy,6,124.76,Bad
+47,Female,Neck Isometrics,Medium,5,272.12,Bad
+47,Female,Neck Side Bend,Medium,45,273.34,Good
+47,Female,Seated Head Turns,Medium,19,295.98,Average
+48,Non-binary,Neck Rotation,Easy,43,35.52,Bad
+48,Non-binary,Chin Tucks,Medium,27,177.93,Average
+48,Non-binary,Shoulder Shrugs,Medium,19,203.5,Average
+48,Non-binary,Neck Side Stretch,Easy,41,50.21,Bad
+48,Non-binary,Neck Flexion,Easy,30,81.23,Bad
+48,Non-binary,Neck Extension,Easy,11,75.39,Bad
+48,Non-binary,Neck Isometrics,Medium,22,281.98,Average
+48,Non-binary,Neck Side Bend,Medium,25,269.8,Average
+48,Non-binary,Seated Head Turns,Medium,39,136.12,Average
+49,Non-binary,Neck Rotation,Easy,9,249.46,Bad
+49,Non-binary,Chin Tucks,Medium,18,198.4,Average
+49,Non-binary,Shoulder Shrugs,Medium,30,86.84,Bad
+49,Non-binary,Neck Side Stretch,Easy,23,173.89,Average
+49,Non-binary,Neck Flexion,Easy,50,55.09,Bad
+49,Non-binary,Neck Extension,Easy,48,81.28,Bad
+49,Non-binary,Neck Isometrics,Medium,44,250.16,Good
+49,Non-binary,Neck Side Bend,Medium,24,135.74,Average
+49,Non-binary,Seated Head Turns,Medium,36,198.69,Good
+50,Female,Neck Rotation,Easy,18,183.91,Average
+50,Female,Chin Tucks,Medium,23,142.52,Average
+50,Female,Shoulder Shrugs,Medium,17,129.01,Average
+50,Female,Neck Side Stretch,Easy,49,298.85,Good
+50,Female,Neck Flexion,Easy,24,234.14,Average
+50,Female,Neck Extension,Easy,31,82.25,Bad
+50,Female,Neck Isometrics,Medium,11,275.64,Bad
+50,Female,Neck Side Bend,Medium,43,74.93,Bad
+50,Female,Seated Head Turns,Medium,31,72.29,Bad

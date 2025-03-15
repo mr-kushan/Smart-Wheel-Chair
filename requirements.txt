@@ -1,0 +1,15 @@
+numpy
+matplotlib
+xgboost
+scikit-learn
+pandas
+seaborn
+pickle5
+fastapi
+pydantic
+websockets
+torch
+IPython
+uvicorn
+requests
+xgboost

@@ -1,0 +1,1001 @@
+UserID,Age,Gender,Injury,Fitness Level,ExerciseID,Exercise Name
+1,55,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+2,55,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+3,86,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+4,51,Female,Paraplegia,Beginner,1,Chin Tucks
+5,43,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+6,53,Male,Paraplegia,Intermediate,2,Neck Rotation
+7,19,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+8,70,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+9,64,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+10,81,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+11,90,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+12,85,Male,Paraplegia,Beginner,1,Chin Tucks
+13,41,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+14,74,Male,Paraplegia,Beginner,1,Chin Tucks
+15,48,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+16,19,Female,Amputation,Beginner,3,Neck Extension
+17,23,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+18,37,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+19,45,Female,Amputation,Beginner,3,Neck Extension
+20,68,Female,Paraplegia,Beginner,1,Chin Tucks
+21,23,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+22,41,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+23,50,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+24,37,Female,Paraplegia,Beginner,1,Chin Tucks
+25,87,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+26,60,Female,Paraplegia,Beginner,1,Chin Tucks
+27,18,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+28,21,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+29,63,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+30,78,Female,Amputation,Beginner,3,Neck Extension
+31,25,Male,Amputation,Beginner,3,Neck Extension
+32,49,Female,Amputation,Beginner,3,Neck Extension
+33,41,Female,Paraplegia,Intermediate,2,Neck Rotation
+34,86,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+35,75,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+36,23,Male,Amputation,Beginner,3,Neck Extension
+37,25,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+38,79,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+39,76,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+40,53,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+41,65,Male,Paraplegia,Beginner,1,Chin Tucks
+42,26,Male,Paraplegia,Intermediate,2,Neck Rotation
+43,57,Male,Paraplegia,Beginner,1,Chin Tucks
+44,28,Female,Paraplegia,Beginner,1,Chin Tucks
+45,76,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+46,86,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+47,27,Male,Paraplegia,Beginner,1,Chin Tucks
+48,37,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+49,47,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+50,75,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+51,22,Male,Amputation,Beginner,3,Neck Extension
+52,89,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+53,82,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+54,67,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+55,86,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+56,50,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+57,81,Male,Paraplegia,Beginner,1,Chin Tucks
+58,51,Male,Amputation,Beginner,3,Neck Extension
+59,80,Male,Paraplegia,Intermediate,2,Neck Rotation
+60,90,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+61,85,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+62,88,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+63,89,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+64,81,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+65,38,Male,Paraplegia,Beginner,1,Chin Tucks
+66,55,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+67,24,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+68,23,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+69,73,Male,Amputation,Beginner,3,Neck Extension
+70,80,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+71,27,Female,Amputation,Beginner,3,Neck Extension
+72,42,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+73,83,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+74,83,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+75,64,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+76,42,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+77,47,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+78,19,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+79,25,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+80,87,Male,Amputation,Beginner,3,Neck Extension
+81,66,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+82,44,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+83,33,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+84,43,Male,Amputation,Beginner,3,Neck Extension
+85,46,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+86,43,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+87,31,Female,Paraplegia,Beginner,1,Chin Tucks
+88,50,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+89,28,Female,Amputation,Beginner,3,Neck Extension
+90,78,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+91,40,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+92,62,Male,Paraplegia,Beginner,1,Chin Tucks
+93,81,Female,Paraplegia,Beginner,1,Chin Tucks
+94,79,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+95,72,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+96,52,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+97,70,Male,Amputation,Beginner,3,Neck Extension
+98,88,Male,Amputation,Beginner,3,Neck Extension
+99,72,Male,Amputation,Beginner,3,Neck Extension
+100,53,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+101,51,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+102,68,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+103,74,Male,Amputation,Beginner,3,Neck Extension
+104,56,Male,Paraplegia,Beginner,1,Chin Tucks
+105,66,Male,Amputation,Beginner,3,Neck Extension
+106,21,Female,Paraplegia,Beginner,1,Chin Tucks
+107,45,Male,Amputation,Beginner,3,Neck Extension
+108,48,Female,Amputation,Beginner,3,Neck Extension
+109,18,Male,Paraplegia,Beginner,1,Chin Tucks
+110,38,Female,Amputation,Beginner,3,Neck Extension
+111,49,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+112,26,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+113,70,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+114,34,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+115,80,Male,Amputation,Beginner,3,Neck Extension
+116,88,Male,Paraplegia,Intermediate,2,Neck Rotation
+117,65,Male,Amputation,Beginner,3,Neck Extension
+118,76,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+119,67,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+120,59,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+121,58,Female,Amputation,Beginner,3,Neck Extension
+122,81,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+123,44,Female,Amputation,Beginner,3,Neck Extension
+124,65,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+125,55,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+126,53,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+127,51,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+128,35,Female,Amputation,Beginner,3,Neck Extension
+129,86,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+130,82,Female,Amputation,Beginner,3,Neck Extension
+131,44,Female,Amputation,Beginner,3,Neck Extension
+132,44,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+133,35,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+134,30,Female,Paraplegia,Beginner,1,Chin Tucks
+135,84,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+136,27,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+137,40,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+138,21,Male,Amputation,Beginner,3,Neck Extension
+139,37,Male,Amputation,Beginner,3,Neck Extension
+140,39,Male,Amputation,Beginner,3,Neck Extension
+141,41,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+142,81,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+143,62,Male,Paraplegia,Beginner,1,Chin Tucks
+144,36,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+145,48,Female,Amputation,Beginner,3,Neck Extension
+146,79,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+147,83,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+148,86,Female,Amputation,Beginner,3,Neck Extension
+149,82,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+150,50,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+151,35,Female,Paraplegia,Intermediate,2,Neck Rotation
+152,74,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+153,21,Female,Amputation,Beginner,3,Neck Extension
+154,27,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+155,37,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+156,58,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+157,63,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+158,37,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+159,76,Male,Amputation,Beginner,3,Neck Extension
+160,75,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+161,73,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+162,89,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+163,42,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+164,66,Female,Paraplegia,Intermediate,2,Neck Rotation
+165,35,Male,Paraplegia,Beginner,1,Chin Tucks
+166,69,Male,Amputation,Beginner,3,Neck Extension
+167,54,Female,Amputation,Beginner,3,Neck Extension
+168,28,Female,Paraplegia,Beginner,1,Chin Tucks
+169,36,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+170,63,Male,Paraplegia,Beginner,1,Chin Tucks
+171,69,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+172,21,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+173,37,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+174,34,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+175,39,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+176,18,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+177,45,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+178,42,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+179,51,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+180,48,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+181,78,Male,Amputation,Beginner,3,Neck Extension
+182,42,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+183,90,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+184,59,Female,Amputation,Beginner,3,Neck Extension
+185,65,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+186,63,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+187,74,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+188,46,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+189,70,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+190,90,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+191,88,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+192,55,Female,Paraplegia,Intermediate,2,Neck Rotation
+193,69,Male,Amputation,Beginner,3,Neck Extension
+194,24,Male,Amputation,Beginner,3,Neck Extension
+195,44,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+196,71,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+197,61,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+198,44,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+199,26,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+200,38,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+201,89,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+202,72,Female,Amputation,Beginner,3,Neck Extension
+203,32,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+204,29,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+205,21,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+206,81,Female,Amputation,Beginner,3,Neck Extension
+207,50,Female,Amputation,Beginner,3,Neck Extension
+208,28,Male,Amputation,Beginner,3,Neck Extension
+209,62,Male,Amputation,Beginner,3,Neck Extension
+210,64,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+211,58,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+212,58,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+213,45,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+214,89,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+215,57,Female,Paraplegia,Intermediate,2,Neck Rotation
+216,75,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+217,23,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+218,33,Male,Paraplegia,Beginner,1,Chin Tucks
+219,73,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+220,71,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+221,68,Female,Paraplegia,Intermediate,2,Neck Rotation
+222,41,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+223,52,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+224,49,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+225,59,Male,Amputation,Beginner,3,Neck Extension
+226,84,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+227,74,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+228,54,Female,Amputation,Beginner,3,Neck Extension
+229,41,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+230,71,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+231,86,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+232,59,Female,Paraplegia,Intermediate,2,Neck Rotation
+233,66,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+234,49,Male,Amputation,Beginner,3,Neck Extension
+235,52,Female,Paraplegia,Beginner,1,Chin Tucks
+236,67,Male,Amputation,Beginner,3,Neck Extension
+237,55,Female,Paraplegia,Beginner,1,Chin Tucks
+238,32,Female,Amputation,Beginner,3,Neck Extension
+239,45,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+240,86,Female,Amputation,Beginner,3,Neck Extension
+241,70,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+242,42,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+243,38,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+244,42,Male,Amputation,Beginner,3,Neck Extension
+245,79,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+246,78,Female,Amputation,Beginner,3,Neck Extension
+247,44,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+248,82,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+249,45,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+250,32,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+251,18,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+252,49,Male,Amputation,Beginner,3,Neck Extension
+253,53,Female,Amputation,Beginner,3,Neck Extension
+254,58,Female,Amputation,Beginner,3,Neck Extension
+255,63,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+256,28,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+257,62,Female,Paraplegia,Beginner,1,Chin Tucks
+258,87,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+259,33,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+260,21,Female,Amputation,Beginner,3,Neck Extension
+261,61,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+262,34,Male,Amputation,Beginner,3,Neck Extension
+263,86,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+264,50,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+265,22,Female,Amputation,Beginner,3,Neck Extension
+266,63,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+267,49,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+268,73,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+269,39,Female,Amputation,Beginner,3,Neck Extension
+270,19,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+271,36,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+272,71,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+273,35,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+274,72,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+275,40,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+276,46,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+277,84,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+278,18,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+279,73,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+280,19,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+281,44,Male,Amputation,Beginner,3,Neck Extension
+282,41,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+283,75,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+284,86,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+285,47,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+286,39,Male,Amputation,Beginner,3,Neck Extension
+287,37,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+288,57,Female,Paraplegia,Beginner,1,Chin Tucks
+289,62,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+290,62,Male,Paraplegia,Beginner,1,Chin Tucks
+291,74,Female,Paraplegia,Intermediate,2,Neck Rotation
+292,59,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+293,19,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+294,35,Female,Amputation,Beginner,3,Neck Extension
+295,61,Male,Amputation,Beginner,3,Neck Extension
+296,54,Female,Paraplegia,Beginner,1,Chin Tucks
+297,85,Female,Paraplegia,Beginner,1,Chin Tucks
+298,80,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+299,63,Female,Paraplegia,Beginner,1,Chin Tucks
+300,22,Female,Amputation,Beginner,3,Neck Extension
+301,67,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+302,21,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+303,78,Female,Amputation,Beginner,3,Neck Extension
+304,30,Female,Amputation,Beginner,3,Neck Extension
+305,41,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+306,65,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+307,56,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+308,46,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+309,55,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+310,68,Male,Paraplegia,Intermediate,2,Neck Rotation
+311,40,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+312,23,Male,Amputation,Beginner,3,Neck Extension
+313,50,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+314,81,Male,Amputation,Beginner,3,Neck Extension
+315,76,Male,Paraplegia,Beginner,1,Chin Tucks
+316,25,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+317,71,Female,Paraplegia,Beginner,1,Chin Tucks
+318,22,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+319,89,Male,Paraplegia,Beginner,1,Chin Tucks
+320,23,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+321,77,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+322,57,Male,Amputation,Beginner,3,Neck Extension
+323,85,Female,Amputation,Beginner,3,Neck Extension
+324,36,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+325,33,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+326,47,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+327,60,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+328,54,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+329,57,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+330,65,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+331,82,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+332,55,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+333,69,Female,Paraplegia,Intermediate,2,Neck Rotation
+334,57,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+335,33,Female,Amputation,Beginner,3,Neck Extension
+336,50,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+337,88,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+338,72,Female,Amputation,Beginner,3,Neck Extension
+339,54,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+340,77,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+341,44,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+342,88,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+343,76,Female,Paraplegia,Beginner,1,Chin Tucks
+344,68,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+345,80,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+346,32,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+347,89,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+348,33,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+349,19,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+350,59,Male,Paraplegia,Intermediate,2,Neck Rotation
+351,24,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+352,74,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+353,84,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+354,50,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+355,23,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+356,85,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+357,22,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+358,29,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+359,77,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+360,55,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+361,47,Female,Amputation,Beginner,3,Neck Extension
+362,79,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+363,53,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+364,86,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+365,90,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+366,74,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+367,48,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+368,18,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+369,75,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+370,60,Female,Amputation,Beginner,3,Neck Extension
+371,31,Female,Amputation,Beginner,3,Neck Extension
+372,74,Female,Paraplegia,Intermediate,2,Neck Rotation
+373,29,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+374,87,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+375,70,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+376,34,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+377,72,Male,Paraplegia,Beginner,1,Chin Tucks
+378,81,Female,Amputation,Beginner,3,Neck Extension
+379,86,Male,Paraplegia,Intermediate,2,Neck Rotation
+380,29,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+381,51,Female,Amputation,Beginner,3,Neck Extension
+382,74,Male,Paraplegia,Intermediate,2,Neck Rotation
+383,50,Female,Amputation,Beginner,3,Neck Extension
+384,50,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+385,77,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+386,20,Male,Amputation,Beginner,3,Neck Extension
+387,50,Male,Amputation,Beginner,3,Neck Extension
+388,89,Female,Amputation,Beginner,3,Neck Extension
+389,67,Male,Paraplegia,Intermediate,2,Neck Rotation
+390,84,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+391,79,Male,Amputation,Beginner,3,Neck Extension
+392,77,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+393,22,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+394,28,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+395,37,Female,Amputation,Beginner,3,Neck Extension
+396,33,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+397,60,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+398,51,Male,Amputation,Beginner,3,Neck Extension
+399,81,Female,Paraplegia,Beginner,1,Chin Tucks
+400,20,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+401,36,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+402,58,Male,Amputation,Beginner,3,Neck Extension
+403,31,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+404,73,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+405,48,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+406,68,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+407,20,Female,Amputation,Beginner,3,Neck Extension
+408,64,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+409,81,Female,Amputation,Beginner,3,Neck Extension
+410,53,Male,Amputation,Beginner,3,Neck Extension
+411,76,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+412,62,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+413,45,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+414,50,Male,Amputation,Beginner,3,Neck Extension
+415,48,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+416,49,Female,Paraplegia,Intermediate,2,Neck Rotation
+417,84,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+418,66,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+419,27,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+420,50,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+421,32,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+422,57,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+423,80,Female,Paraplegia,Intermediate,2,Neck Rotation
+424,21,Female,Paraplegia,Intermediate,2,Neck Rotation
+425,31,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+426,76,Male,Amputation,Beginner,3,Neck Extension
+427,19,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+428,45,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+429,86,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+430,52,Male,Amputation,Beginner,3,Neck Extension
+431,77,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+432,59,Female,Amputation,Beginner,3,Neck Extension
+433,39,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+434,51,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+435,72,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+436,79,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+437,30,Male,Amputation,Beginner,3,Neck Extension
+438,33,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+439,61,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+440,46,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+441,69,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+442,46,Female,Amputation,Beginner,3,Neck Extension
+443,38,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+444,42,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+445,22,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+446,66,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+447,75,Female,Amputation,Beginner,3,Neck Extension
+448,35,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+449,55,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+450,86,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+451,23,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+452,36,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+453,76,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+454,77,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+455,60,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+456,27,Female,Amputation,Beginner,3,Neck Extension
+457,50,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+458,43,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+459,50,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+460,21,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+461,50,Female,Paraplegia,Beginner,1,Chin Tucks
+462,81,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+463,87,Female,Amputation,Beginner,3,Neck Extension
+464,68,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+465,25,Male,Amputation,Beginner,3,Neck Extension
+466,88,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+467,62,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+468,20,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+469,69,Male,Amputation,Beginner,3,Neck Extension
+470,61,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+471,89,Male,Amputation,Beginner,3,Neck Extension
+472,87,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+473,36,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+474,48,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+475,26,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+476,61,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+477,32,Female,Amputation,Beginner,3,Neck Extension
+478,66,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+479,39,Male,Paraplegia,Beginner,1,Chin Tucks
+480,49,Male,Paraplegia,Intermediate,2,Neck Rotation
+481,22,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+482,20,Female,Amputation,Beginner,3,Neck Extension
+483,79,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+484,84,Female,Amputation,Beginner,3,Neck Extension
+485,42,Female,Paraplegia,Beginner,1,Chin Tucks
+486,53,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+487,61,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+488,60,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+489,29,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+490,46,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+491,62,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+492,38,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+493,27,Male,Paraplegia,Intermediate,2,Neck Rotation
+494,54,Male,Paraplegia,Beginner,1,Chin Tucks
+495,35,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+496,90,Male,Paraplegia,Beginner,1,Chin Tucks
+497,41,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+498,33,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+499,56,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+500,21,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+501,24,Female,Paraplegia,Beginner,1,Chin Tucks
+502,89,Female,Amputation,Beginner,3,Neck Extension
+503,25,Male,Paraplegia,Beginner,1,Chin Tucks
+504,83,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+505,33,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+506,33,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+507,89,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+508,63,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+509,72,Male,Paraplegia,Beginner,1,Chin Tucks
+510,22,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+511,87,Female,Amputation,Beginner,3,Neck Extension
+512,24,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+513,51,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+514,42,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+515,43,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+516,28,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+517,38,Male,Paraplegia,Beginner,1,Chin Tucks
+518,50,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+519,39,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+520,18,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+521,81,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+522,63,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+523,24,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+524,76,Female,Paraplegia,Beginner,1,Chin Tucks
+525,61,Female,Amputation,Beginner,3,Neck Extension
+526,45,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+527,89,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+528,79,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+529,82,Male,Amputation,Beginner,3,Neck Extension
+530,73,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+531,59,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+532,35,Female,Paraplegia,Beginner,1,Chin Tucks
+533,57,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+534,30,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+535,52,Male,Amputation,Beginner,3,Neck Extension
+536,84,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+537,78,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+538,74,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+539,45,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+540,85,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+541,89,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+542,59,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+543,61,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+544,44,Female,Amputation,Beginner,3,Neck Extension
+545,21,Male,Paraplegia,Beginner,1,Chin Tucks
+546,77,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+547,78,Male,Paraplegia,Beginner,1,Chin Tucks
+548,52,Female,Paraplegia,Beginner,1,Chin Tucks
+549,48,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+550,40,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+551,30,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+552,50,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+553,24,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+554,22,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+555,90,Female,Paraplegia,Beginner,1,Chin Tucks
+556,83,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+557,25,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+558,85,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+559,62,Female,Amputation,Beginner,3,Neck Extension
+560,87,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+561,47,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+562,28,Female,Paraplegia,Intermediate,2,Neck Rotation
+563,33,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+564,37,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+565,57,Female,Amputation,Beginner,3,Neck Extension
+566,82,Male,Amputation,Beginner,3,Neck Extension
+567,85,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+568,76,Female,Amputation,Beginner,3,Neck Extension
+569,30,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+570,63,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+571,30,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+572,53,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+573,60,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+574,67,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+575,19,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+576,84,Female,Amputation,Beginner,3,Neck Extension
+577,54,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+578,84,Female,Amputation,Beginner,3,Neck Extension
+579,88,Male,Paraplegia,Beginner,1,Chin Tucks
+580,74,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+581,21,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+582,24,Male,Paraplegia,Intermediate,2,Neck Rotation
+583,46,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+584,25,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+585,58,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+586,53,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+587,30,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+588,41,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+589,73,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+590,80,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+591,70,Female,Paraplegia,Beginner,1,Chin Tucks
+592,78,Male,Paraplegia,Intermediate,2,Neck Rotation
+593,64,Female,Paraplegia,Beginner,1,Chin Tucks
+594,80,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+595,34,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+596,48,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+597,44,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+598,88,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+599,37,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+600,81,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+601,74,Female,Amputation,Beginner,3,Neck Extension
+602,28,Female,Amputation,Beginner,3,Neck Extension
+603,81,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+604,70,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+605,85,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+606,60,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+607,69,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+608,30,Female,Amputation,Beginner,3,Neck Extension
+609,35,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+610,45,Female,Paraplegia,Beginner,1,Chin Tucks
+611,46,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+612,85,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+613,77,Female,Amputation,Beginner,3,Neck Extension
+614,83,Female,Paraplegia,Intermediate,2,Neck Rotation
+615,38,Male,Amputation,Beginner,3,Neck Extension
+616,34,Female,Amputation,Beginner,3,Neck Extension
+617,18,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+618,64,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+619,87,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+620,59,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+621,47,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+622,85,Female,Paraplegia,Intermediate,2,Neck Rotation
+623,43,Male,Paraplegia,Beginner,1,Chin Tucks
+624,46,Male,Paraplegia,Beginner,1,Chin Tucks
+625,82,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+626,75,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+627,50,Female,Paraplegia,Intermediate,2,Neck Rotation
+628,77,Male,Paraplegia,Beginner,1,Chin Tucks
+629,77,Male,Amputation,Beginner,3,Neck Extension
+630,74,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+631,65,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+632,57,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+633,60,Male,Amputation,Beginner,3,Neck Extension
+634,20,Female,Paraplegia,Beginner,1,Chin Tucks
+635,79,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+636,74,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+637,49,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+638,87,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+639,27,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+640,38,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+641,69,Male,Amputation,Beginner,3,Neck Extension
+642,81,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+643,56,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+644,55,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+645,21,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+646,35,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+647,80,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+648,36,Male,Paraplegia,Beginner,1,Chin Tucks
+649,58,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+650,57,Female,Amputation,Beginner,3,Neck Extension
+651,39,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+652,55,Female,Amputation,Beginner,3,Neck Extension
+653,88,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+654,40,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+655,40,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+656,45,Male,Paraplegia,Beginner,1,Chin Tucks
+657,84,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+658,44,Female,Paraplegia,Beginner,1,Chin Tucks
+659,43,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+660,20,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+661,79,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+662,63,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+663,18,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+664,37,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+665,46,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+666,47,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+667,83,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+668,81,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+669,53,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+670,87,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+671,25,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+672,47,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+673,71,Male,Paraplegia,Beginner,1,Chin Tucks
+674,86,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+675,67,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+676,81,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+677,82,Male,Amputation,Beginner,3,Neck Extension
+678,67,Male,Amputation,Beginner,3,Neck Extension
+679,28,Female,Paraplegia,Intermediate,2,Neck Rotation
+680,29,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+681,53,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+682,44,Female,Paraplegia,Beginner,1,Chin Tucks
+683,72,Male,Amputation,Beginner,3,Neck Extension
+684,38,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+685,58,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+686,46,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+687,48,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+688,29,Male,Paraplegia,Intermediate,2,Neck Rotation
+689,35,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+690,64,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+691,26,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+692,78,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+693,60,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+694,70,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+695,58,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+696,56,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+697,62,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+698,46,Male,Amputation,Beginner,3,Neck Extension
+699,73,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+700,78,Female,Paraplegia,Intermediate,2,Neck Rotation
+701,66,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+702,23,Male,Amputation,Beginner,3,Neck Extension
+703,86,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+704,89,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+705,52,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+706,54,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+707,73,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+708,49,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+709,84,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+710,87,Male,Amputation,Beginner,3,Neck Extension
+711,85,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+712,69,Female,Paraplegia,Intermediate,2,Neck Rotation
+713,80,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+714,40,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+715,46,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+716,47,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+717,43,Male,Amputation,Beginner,3,Neck Extension
+718,23,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+719,69,Female,Amputation,Beginner,3,Neck Extension
+720,84,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+721,74,Female,Paraplegia,Intermediate,2,Neck Rotation
+722,49,Female,Amputation,Beginner,3,Neck Extension
+723,46,Male,Paraplegia,Beginner,1,Chin Tucks
+724,49,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+725,90,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+726,49,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+727,86,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+728,32,Male,Amputation,Beginner,3,Neck Extension
+729,80,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+730,79,Female,Amputation,Beginner,3,Neck Extension
+731,64,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+732,83,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+733,78,Female,Amputation,Beginner,3,Neck Extension
+734,71,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+735,90,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+736,19,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+737,84,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+738,80,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+739,49,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+740,81,Female,Paraplegia,Beginner,1,Chin Tucks
+741,65,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+742,75,Male,Amputation,Beginner,3,Neck Extension
+743,90,Female,Paraplegia,Beginner,1,Chin Tucks
+744,73,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+745,64,Male,Paraplegia,Beginner,1,Chin Tucks
+746,30,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+747,82,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+748,58,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+749,47,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+750,54,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+751,49,Male,Amputation,Beginner,3,Neck Extension
+752,70,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+753,50,Male,Paraplegia,Intermediate,2,Neck Rotation
+754,56,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+755,27,Female,Paraplegia,Beginner,1,Chin Tucks
+756,39,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+757,31,Male,Amputation,Beginner,3,Neck Extension
+758,55,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+759,48,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+760,38,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+761,72,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+762,83,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+763,77,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+764,88,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+765,37,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+766,71,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+767,58,Female,Amputation,Beginner,3,Neck Extension
+768,55,Male,Paraplegia,Intermediate,2,Neck Rotation
+769,33,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+770,31,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+771,39,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+772,70,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+773,30,Male,Amputation,Beginner,3,Neck Extension
+774,23,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+775,66,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+776,73,Male,Amputation,Beginner,3,Neck Extension
+777,32,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+778,89,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+779,47,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+780,71,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+781,43,Female,Paraplegia,Beginner,1,Chin Tucks
+782,36,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+783,38,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+784,44,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+785,55,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+786,71,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+787,85,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+788,27,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+789,42,Female,Paraplegia,Beginner,1,Chin Tucks
+790,83,Female,Paraplegia,Beginner,1,Chin Tucks
+791,62,Male,Amputation,Beginner,3,Neck Extension
+792,90,Male,Amputation,Beginner,3,Neck Extension
+793,66,Female,Amputation,Beginner,3,Neck Extension
+794,47,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+795,34,Male,Paraplegia,Beginner,1,Chin Tucks
+796,39,Male,Amputation,Beginner,3,Neck Extension
+797,18,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+798,63,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+799,30,Male,Paraplegia,Intermediate,2,Neck Rotation
+800,40,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+801,32,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+802,55,Male,Amputation,Beginner,3,Neck Extension
+803,62,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+804,49,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+805,66,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+806,57,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+807,69,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+808,35,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+809,65,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+810,57,Female,Paraplegia,Intermediate,2,Neck Rotation
+811,19,Female,Amputation,Beginner,3,Neck Extension
+812,46,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+813,88,Male,Paraplegia,Beginner,1,Chin Tucks
+814,25,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+815,50,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+816,21,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+817,86,Female,Paraplegia,Beginner,1,Chin Tucks
+818,44,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+819,73,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+820,64,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+821,52,Male,Amputation,Beginner,3,Neck Extension
+822,42,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+823,49,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+824,87,Male,Amputation,Beginner,3,Neck Extension
+825,56,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+826,30,Female,Amputation,Beginner,3,Neck Extension
+827,33,Male,Amputation,Beginner,3,Neck Extension
+828,62,Female,Paraplegia,Intermediate,2,Neck Rotation
+829,46,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+830,19,Male,Paraplegia,Beginner,1,Chin Tucks
+831,35,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+832,26,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+833,85,Male,Amputation,Beginner,3,Neck Extension
+834,78,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+835,58,Female,Amputation,Beginner,3,Neck Extension
+836,39,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+837,86,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+838,54,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+839,82,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+840,24,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+841,18,Female,Paraplegia,Beginner,1,Chin Tucks
+842,88,Female,Paraplegia,Beginner,1,Chin Tucks
+843,43,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+844,49,Male,Amputation,Beginner,3,Neck Extension
+845,45,Female,Paraplegia,Beginner,1,Chin Tucks
+846,89,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+847,44,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+848,29,Female,Paraplegia,Beginner,1,Chin Tucks
+849,36,Male,Paraplegia,Beginner,1,Chin Tucks
+850,68,Male,Amputation,Beginner,3,Neck Extension
+851,70,Female,Amputation,Beginner,3,Neck Extension
+852,46,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+853,90,Male,Amputation,Beginner,3,Neck Extension
+854,36,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+855,30,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+856,70,Male,Amputation,Beginner,3,Neck Extension
+857,50,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+858,57,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+859,83,Female,Amputation,Beginner,3,Neck Extension
+860,26,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+861,52,Male,Amputation,Beginner,3,Neck Extension
+862,46,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+863,89,Female,Paraplegia,Intermediate,2,Neck Rotation
+864,32,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+865,81,Male,Paraplegia,Intermediate,2,Neck Rotation
+866,83,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+867,23,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+868,84,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+869,50,Female,Paraplegia,Beginner,1,Chin Tucks
+870,28,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+871,53,Male,Paraplegia,Beginner,1,Chin Tucks
+872,75,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+873,40,Male,Paraplegia,Intermediate,2,Neck Rotation
+874,21,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+875,79,Male,Amputation,Beginner,3,Neck Extension
+876,88,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
+877,26,Male,Amputation,Beginner,3,Neck Extension
+878,85,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+879,21,Male,Amputation,Beginner,3,Neck Extension
+880,68,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+881,42,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+882,39,Female,Amputation,Beginner,3,Neck Extension
+883,31,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+884,43,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+885,19,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+886,74,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+887,65,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+888,47,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+889,60,Male,Amputation,Beginner,3,Neck Extension
+890,34,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+891,80,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+892,83,Female,Amputation,Beginner,3,Neck Extension
+893,54,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+894,76,Male,Amputation,Beginner,3,Neck Extension
+895,21,Male,Paraplegia,Beginner,1,Chin Tucks
+896,35,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+897,47,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+898,58,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+899,38,Female,Amputation,Beginner,3,Neck Extension
+900,52,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+901,26,Male,Amputation,Beginner,3,Neck Extension
+902,81,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+903,26,Female,Paraplegia,Beginner,1,Chin Tucks
+904,70,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+905,44,Female,Amputation,Beginner,3,Neck Extension
+906,67,Male,Amputation,Beginner,3,Neck Extension
+907,73,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+908,46,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+909,24,Male,Amputation,Beginner,3,Neck Extension
+910,36,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+911,37,Male,Amputation,Beginner,3,Neck Extension
+912,80,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+913,25,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+914,79,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+915,24,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+916,75,Male,Amputation,Beginner,3,Neck Extension
+917,69,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+918,47,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+919,43,Male,Amputation,Beginner,3,Neck Extension
+920,73,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+921,80,Male,Amputation,Beginner,3,Neck Extension
+922,55,Female,Amputation,Beginner,3,Neck Extension
+923,53,Male,Amputation,Beginner,3,Neck Extension
+924,78,Female,Paraplegia,Beginner,1,Chin Tucks
+925,84,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+926,50,Male,Paraplegia,Beginner,1,Chin Tucks
+927,74,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+928,57,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+929,43,Male,Paraplegia,Intermediate,2,Neck Rotation
+930,88,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+931,70,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+932,59,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+933,20,Male,Paraplegia,Beginner,1,Chin Tucks
+934,18,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+935,26,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+936,45,Male,Amputation,Beginner,3,Neck Extension
+937,86,Female,Paraplegia,Beginner,1,Chin Tucks
+938,73,Female,Paraplegia,Beginner,1,Chin Tucks
+939,84,Male,Paraplegia,Intermediate,9,Shoulder Shrugs
+940,64,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+941,72,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+942,77,Male,Amputation,Beginner,3,Neck Extension
+943,65,Female,Paraplegia,Intermediate,2,Neck Rotation
+944,40,Male,Amputation,Beginner,3,Neck Extension
+945,82,Male,Paraplegia,Intermediate,2,Neck Rotation
+946,83,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+947,25,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+948,32,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+949,40,Female,Paraplegia,Beginner,1,Chin Tucks
+950,24,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+951,81,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+952,57,Male,Amputation,Beginner,3,Neck Extension
+953,75,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+954,89,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+955,32,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+956,39,Male,Amputation,Beginner,3,Neck Extension
+957,34,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+958,53,Female,Spinal Cord Injury,Advanced,7,Neck Side Bend
+959,52,Male,Amputation,Beginner,3,Neck Extension
+960,89,Male,Amputation,Beginner,3,Neck Extension
+961,43,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+962,86,Female,Amputation,Beginner,3,Neck Extension
+963,73,Female,Amputation,Beginner,3,Neck Extension
+964,76,Male,Paraplegia,Beginner,1,Chin Tucks
+965,43,Male,Amputation,Beginner,3,Neck Extension
+966,47,Male,Amputation,Beginner,3,Neck Extension
+967,80,Male,Paraplegia,Beginner,1,Chin Tucks
+968,35,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+969,78,Female,Quadriplegia,Intermediate,5,Neck Isometrics
+970,88,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+971,30,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+972,47,Female,Paraplegia,Intermediate,9,Shoulder Shrugs
+973,61,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+974,50,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+975,25,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+976,61,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+977,34,Female,Quadriplegia,Beginner,8,Neck Side Stretch
+978,81,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+979,26,Male,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+980,43,Male,Spinal Cord Injury,Beginner,4,Neck Flexion
+981,60,Male,Quadriplegia,Beginner,8,Neck Side Stretch
+982,60,Female,Amputation,Beginner,3,Neck Extension
+983,71,Male,Amputation,Beginner,3,Neck Extension
+984,81,Female,Amputation,Beginner,3,Neck Extension
+985,46,Male,Multiple Sclerosis,Beginner,4,Neck Flexion
+986,33,Female,Paraplegia,Intermediate,2,Neck Rotation
+987,49,Female,Spinal Cord Injury,Intermediate,6,Seated Head Turns
+988,37,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+989,64,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+990,67,Male,Paraplegia,Beginner,1,Chin Tucks
+991,87,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+992,54,Female,Amputation,Beginner,3,Neck Extension
+993,19,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+994,71,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+995,41,Female,Paraplegia,Beginner,1,Chin Tucks
+996,43,Female,Multiple Sclerosis,Beginner,4,Neck Flexion
+997,75,Male,Amputation,Beginner,3,Neck Extension
+998,59,Male,Quadriplegia,Intermediate,5,Neck Isometrics
+999,82,Female,Spinal Cord Injury,Beginner,4,Neck Flexion
+1000,42,Male,Spinal Cord Injury,Advanced,7,Neck Side Bend
